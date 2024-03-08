@@ -1,0 +1,5 @@
+import mypack.*;
+class testing {
+    
+    
+}
